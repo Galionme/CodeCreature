@@ -1,0 +1,4 @@
+int float char strcmp strcat int 
+strlen char 
+
+a
