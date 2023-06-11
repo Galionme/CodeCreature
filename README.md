@@ -1,2 +1,2 @@
 # CodeCreature
-CodeCreature - tracker follows your coding progress, rewarding you with coins that you can use to feed and care for your virtual pet creature. 
+Introducing CodeCreature. Our tracker follows your coding progress, rewarding you with coins that you can use to feed and care for your virtual pet creature. With its engaging and interactive features, this innovative tool will revolutionize how you approach your daily coding routine. Keep your coding on track and enjoy the rewards that come with it. Take care of your coding companion and watch it grow alongside your skills. Welcome to the world of CodeCreature - the perfect balance of fun and productivity.
