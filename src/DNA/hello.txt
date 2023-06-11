@@ -1,4 +1,9 @@
-int float char strcmp strcat int 
-strlen char 
+#include <stdio.h>
 
-a
+int main(void) {
+   int a = 0;
+   strcat(aboba, bleba);
+   int b = 9;
+   float c = 9;
+   strlen(str);
+}
